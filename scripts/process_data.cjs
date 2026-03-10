@@ -42,11 +42,18 @@ function processData() {
     const students = {}; // RollNo -> { name, rollNo, theory: [], practical: [] }
 
     // Skip header (line 0)
+    const headerCols = parseLine(mappingLines[0]);
+    let rollColIdx = headerCols.findIndex(c => c.toLowerCase().includes('roll'));
+    let nameColIdx = headerCols.findIndex(c => c.toLowerCase().includes('name'));
+
+    if (rollColIdx === -1) rollColIdx = 0;
+    if (nameColIdx === -1) nameColIdx = 1;
+
     for (let i = 1; i < mappingLines.length; i++) {
         const cols = parseLine(mappingLines[i]);
-        if (cols.length >= 3) {
-            const rollNo = cols[0];
-            const name = cols[2];
+        if (cols.length > Math.max(rollColIdx, nameColIdx)) {
+            const rollNo = cols[rollColIdx];
+            const name = cols[nameColIdx];
             students[rollNo] = {
                 rollNo,
                 name,
