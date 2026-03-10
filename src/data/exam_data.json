@@ -1,37 +1,8 @@
 [
   {
-    "rollNo": "150096725002",
+    "rollNo": "1",
     "name": "Sahil Ganesh Ghone",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -54,38 +25,9 @@
     ]
   },
   {
-    "rollNo": "150096725003",
+    "rollNo": "2",
     "name": "Aareen Dakway",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -108,38 +50,9 @@
     ]
   },
   {
-    "rollNo": "150096725004",
+    "rollNo": "3",
     "name": "Krish Shinde",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -162,38 +75,9 @@
     ]
   },
   {
-    "rollNo": "150096725005",
+    "rollNo": "4",
     "name": "Ved Patil",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -216,38 +100,9 @@
     ]
   },
   {
-    "rollNo": "150096725007",
+    "rollNo": "5",
     "name": "Ramjee Vinay Mishra",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -270,38 +125,9 @@
     ]
   },
   {
-    "rollNo": "150096725008",
+    "rollNo": "6",
     "name": "AAYUSH DATTATRAY JADHAV",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -324,38 +150,9 @@
     ]
   },
   {
-    "rollNo": "150096725009",
+    "rollNo": "7",
     "name": "Yuvraj Jitendra Singh",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -378,38 +175,9 @@
     ]
   },
   {
-    "rollNo": "150096725010",
+    "rollNo": "8",
     "name": "Aashika Pandey",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -432,38 +200,9 @@
     ]
   },
   {
-    "rollNo": "150096725011",
+    "rollNo": "9",
     "name": "Ajit Anil Singh",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -486,38 +225,9 @@
     ]
   },
   {
-    "rollNo": "150096725012",
+    "rollNo": "10",
     "name": "Ayush Kumar Singh",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -540,38 +250,9 @@
     ]
   },
   {
-    "rollNo": "150096725013",
+    "rollNo": "11",
     "name": "Anjali Dilip Patil",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -594,38 +275,9 @@
     ]
   },
   {
-    "rollNo": "150096725014",
+    "rollNo": "12",
     "name": "Jaspreet Kaur Bassi",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -648,38 +300,9 @@
     ]
   },
   {
-    "rollNo": "150096725016",
+    "rollNo": "13",
     "name": "Akhila Anish Das",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -702,38 +325,9 @@
     ]
   },
   {
-    "rollNo": "150096725018",
+    "rollNo": "14",
     "name": "Jash Jetly",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -756,38 +350,9 @@
     ]
   },
   {
-    "rollNo": "150096725019",
+    "rollNo": "15",
     "name": "Parth Sanjay Sarova",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -810,38 +375,9 @@
     ]
   },
   {
-    "rollNo": "150096725020",
+    "rollNo": "16",
     "name": "Tanish Gawade",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -864,38 +400,9 @@
     ]
   },
   {
-    "rollNo": "150096725021",
+    "rollNo": "17",
     "name": "Mohammad Maasar",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -918,38 +425,9 @@
     ]
   },
   {
-    "rollNo": "150096725022",
+    "rollNo": "18",
     "name": "Kunal Lubhana",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -972,38 +450,9 @@
     ]
   },
   {
-    "rollNo": "150096725023",
+    "rollNo": "19",
     "name": "Aryan Yadav",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -1026,38 +475,9 @@
     ]
   },
   {
-    "rollNo": "150096725024",
+    "rollNo": "20",
     "name": "Stuti Saxena",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -1080,38 +500,9 @@
     ]
   },
   {
-    "rollNo": "150096725025",
+    "rollNo": "21",
     "name": "Kushal Swargam",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -1134,38 +525,9 @@
     ]
   },
   {
-    "rollNo": "150096725026",
+    "rollNo": "22",
     "name": "Sameer Shaikh",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -1188,38 +550,9 @@
     ]
   },
   {
-    "rollNo": "150096725027",
+    "rollNo": "23",
     "name": "Nimish Bordiya",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 4",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -1242,38 +575,9 @@
     ]
   },
   {
-    "rollNo": "150096725028",
+    "rollNo": "24",
     "name": "Sushant Sagar",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -1296,38 +600,9 @@
     ]
   },
   {
-    "rollNo": "150096725029",
+    "rollNo": "25",
     "name": "Aaditya Manoj Bhosale",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -1350,38 +625,9 @@
     ]
   },
   {
-    "rollNo": "150096725030",
+    "rollNo": "26",
     "name": "Bhaumikk Keer",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -1404,38 +650,9 @@
     ]
   },
   {
-    "rollNo": "150096725031",
+    "rollNo": "27",
     "name": "Karamveer Singh Qaumi",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -1458,38 +675,9 @@
     ]
   },
   {
-    "rollNo": "150096725032",
+    "rollNo": "28",
     "name": "Prince Yadav",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -1512,38 +700,9 @@
     ]
   },
   {
-    "rollNo": "150096725033",
+    "rollNo": "29",
     "name": "Nandeni Tiwari",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -1566,38 +725,9 @@
     ]
   },
   {
-    "rollNo": "150096725034",
+    "rollNo": "30",
     "name": "Arnesh Munj",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -1620,38 +750,9 @@
     ]
   },
   {
-    "rollNo": "150096725035",
+    "rollNo": "31",
     "name": "Yashika Saraf",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -1674,38 +775,9 @@
     ]
   },
   {
-    "rollNo": "150096725036",
+    "rollNo": "32",
     "name": "Yuvraj A Mishra",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -1728,38 +800,9 @@
     ]
   },
   {
-    "rollNo": "150096725038",
+    "rollNo": "33",
     "name": "Harshit Dhir",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -1782,38 +825,9 @@
     ]
   },
   {
-    "rollNo": "150096725039",
+    "rollNo": "34",
     "name": "Sahil Kumar",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -1836,38 +850,9 @@
     ]
   },
   {
-    "rollNo": "150096725040",
+    "rollNo": "35",
     "name": "SHOBIT SAROJ",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -1890,38 +875,9 @@
     ]
   },
   {
-    "rollNo": "150096725041",
+    "rollNo": "36",
     "name": "Mitesh Yadav",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -1944,38 +900,9 @@
     ]
   },
   {
-    "rollNo": "150096725042",
+    "rollNo": "37",
     "name": "Gaurav Patel",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -1998,38 +925,9 @@
     ]
   },
   {
-    "rollNo": "150096725043",
+    "rollNo": "38",
     "name": "Somyajeet Singh",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -2052,38 +950,9 @@
     ]
   },
   {
-    "rollNo": "150096725044",
+    "rollNo": "39",
     "name": "Miheer singh Handa",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -2106,38 +975,9 @@
     ]
   },
   {
-    "rollNo": "150096725045",
+    "rollNo": "40",
     "name": "Sejal Singh",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -2160,38 +1000,9 @@
     ]
   },
   {
-    "rollNo": "150096725046",
+    "rollNo": "41",
     "name": "Ayush Mishra",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -2214,38 +1025,9 @@
     ]
   },
   {
-    "rollNo": "150096725048",
+    "rollNo": "42",
     "name": "Aaryan kuchekar",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -2268,38 +1050,9 @@
     ]
   },
   {
-    "rollNo": "150096725049",
+    "rollNo": "43",
     "name": "Arnav Advirkar",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -2322,38 +1075,9 @@
     ]
   },
   {
-    "rollNo": "150096725050",
+    "rollNo": "44",
     "name": "Ankitraj Jha",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -2376,38 +1100,9 @@
     ]
   },
   {
-    "rollNo": "150096725051",
+    "rollNo": "45",
     "name": "Snehil Shailendra Singh",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -2430,38 +1125,9 @@
     ]
   },
   {
-    "rollNo": "150096725052",
+    "rollNo": "46",
     "name": "SHIVAM SAH",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 5",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -2484,38 +1150,9 @@
     ]
   },
   {
-    "rollNo": "150096725053",
+    "rollNo": "47",
     "name": "Vyom Shah",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -2538,38 +1175,9 @@
     ]
   },
   {
-    "rollNo": "150096725055",
+    "rollNo": "48",
     "name": "Yatharth Mishra",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -2592,38 +1200,9 @@
     ]
   },
   {
-    "rollNo": "150096725056",
+    "rollNo": "49",
     "name": "Mukesh Choudhary",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -2646,38 +1225,9 @@
     ]
   },
   {
-    "rollNo": "150096725057",
+    "rollNo": "50",
     "name": "Aryaa Bhadane",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -2700,38 +1250,9 @@
     ]
   },
   {
-    "rollNo": "150096725058",
+    "rollNo": "51",
     "name": "Neel Prabir Singh",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -2754,38 +1275,9 @@
     ]
   },
   {
-    "rollNo": "150096725060",
+    "rollNo": "52",
     "name": "Dhruv Chavda",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -2808,38 +1300,9 @@
     ]
   },
   {
-    "rollNo": "150096725061",
+    "rollNo": "53",
     "name": "Aditya khare",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -2862,38 +1325,9 @@
     ]
   },
   {
-    "rollNo": "150096725062",
+    "rollNo": "54",
     "name": "Lokendra Joshi",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -2916,38 +1350,9 @@
     ]
   },
   {
-    "rollNo": "150096725063",
+    "rollNo": "55",
     "name": "Saish Bhujbal",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -2970,38 +1375,9 @@
     ]
   },
   {
-    "rollNo": "150096725064",
+    "rollNo": "56",
     "name": "Pawan Mishra",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -3024,38 +1400,9 @@
     ]
   },
   {
-    "rollNo": "150096725065",
+    "rollNo": "57",
     "name": "Gatik Darshankumar Battapadi",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -3078,38 +1425,9 @@
     ]
   },
   {
-    "rollNo": "150096725066",
+    "rollNo": "58",
     "name": "Raj Rasal",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -3132,38 +1450,9 @@
     ]
   },
   {
-    "rollNo": "150096725067",
+    "rollNo": "59",
     "name": "sairaj jadhav",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -3186,38 +1475,9 @@
     ]
   },
   {
-    "rollNo": "150096725068",
+    "rollNo": "60",
     "name": "Rishi Thakker",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -3240,38 +1500,9 @@
     ]
   },
   {
-    "rollNo": "150096725069",
+    "rollNo": "61",
     "name": "Atharva Chaurasiya",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -3294,38 +1525,9 @@
     ]
   },
   {
-    "rollNo": "150096725070",
+    "rollNo": "62",
     "name": "Aditya Sunil Chouksey",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -3348,38 +1550,9 @@
     ]
   },
   {
-    "rollNo": "150096725071",
+    "rollNo": "63",
     "name": "Tiya Gupta",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -3402,38 +1575,9 @@
     ]
   },
   {
-    "rollNo": "150096725072",
+    "rollNo": "64",
     "name": "Krishiv Amitsinh Solanki",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -3456,38 +1600,9 @@
     ]
   },
   {
-    "rollNo": "150096725073",
+    "rollNo": "65",
     "name": "Saudamini basant nayak",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -3510,38 +1625,9 @@
     ]
   },
   {
-    "rollNo": "150096725074",
+    "rollNo": "66",
     "name": "Yash Kutwal",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -3564,38 +1650,9 @@
     ]
   },
   {
-    "rollNo": "150096725075",
+    "rollNo": "67",
     "name": "Arman Choudhary",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -3618,108 +1675,9 @@
     ]
   },
   {
-    "rollNo": "150096725076",
-    "name": "Sanika Rajiv Bairam",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      }
-    ],
-    "practical": []
-  },
-  {
-    "rollNo": "150096725077",
-    "name": "Kanishk N Nalawade",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      }
-    ],
-    "practical": []
-  },
-  {
-    "rollNo": "150096725078",
+    "rollNo": "68",
     "name": "Japji kaur",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -3742,38 +1700,9 @@
     ]
   },
   {
-    "rollNo": "150096725079",
+    "rollNo": "69",
     "name": "Vaishnavi Sanjay Sankhala",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -3796,73 +1725,34 @@
     ]
   },
   {
-    "rollNo": "150096725080",
-    "name": "Dharmit Patel",
-    "theory": [
+    "rollNo": "70",
+    "name": "Dharmit Sathvara",
+    "theory": [],
+    "practical": [
       {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
+        "date": "Day 2: 14th Mar : Sat",
         "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
+        "panel": "Panel 1",
+        "time": "4:00 PM - 4:15 PM",
+        "location": "Bunker -1",
+        "type": "Practical",
+        "professor": ""
       },
       {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 6",
-        "type": "Theory"
+        "date": "Day 4: 17th Mar : Tue",
+        "subject": "HTML 5 , CSS 3 , Javascript",
+        "panel": "Panel 1",
+        "time": "4:00 PM - 4:15 PM",
+        "location": "Bunker-2",
+        "type": "Practical",
+        "professor": ""
       }
-    ],
-    "practical": []
+    ]
   },
   {
-    "rollNo": "150096725081",
+    "rollNo": "71",
     "name": "Sumit Shingole",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -3885,38 +1775,9 @@
     ]
   },
   {
-    "rollNo": "150096725082",
+    "rollNo": "72",
     "name": "Tanish Ramesh Suvarna",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -3939,38 +1800,9 @@
     ]
   },
   {
-    "rollNo": "150096725084",
+    "rollNo": "73",
     "name": "Ashish Shravan Kumar Gupta",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -3993,38 +1825,9 @@
     ]
   },
   {
-    "rollNo": "150096725085",
+    "rollNo": "74",
     "name": "simran sutar",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -4047,38 +1850,9 @@
     ]
   },
   {
-    "rollNo": "150096725087",
+    "rollNo": "75",
     "name": "DAKSH RANJAN SRIVASTAVA",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -4101,38 +1875,9 @@
     ]
   },
   {
-    "rollNo": "150096725088",
+    "rollNo": "76",
     "name": "Manthan Shirke",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -4155,38 +1900,9 @@
     ]
   },
   {
-    "rollNo": "150096725089",
+    "rollNo": "77",
     "name": "PRANAV Santhosh NAIR",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -4209,38 +1925,9 @@
     ]
   },
   {
-    "rollNo": "150096725091",
+    "rollNo": "78",
     "name": "Danesh Mavji Joishar",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -4263,38 +1950,9 @@
     ]
   },
   {
-    "rollNo": "150096725092",
+    "rollNo": "79",
     "name": "Tanay Siddharth Shelar",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -4317,38 +1975,9 @@
     ]
   },
   {
-    "rollNo": "150096725094",
+    "rollNo": "80",
     "name": "Lokesh Rathod",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -4371,38 +2000,9 @@
     ]
   },
   {
-    "rollNo": "150096725095",
+    "rollNo": "81",
     "name": "parthiv kumar",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -4425,38 +2025,9 @@
     ]
   },
   {
-    "rollNo": "150096725096",
+    "rollNo": "82",
     "name": "Abdeali Makda",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -4479,38 +2050,9 @@
     ]
   },
   {
-    "rollNo": "150096725097",
+    "rollNo": "83",
     "name": "Pari Pankaj Gothi",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -4533,38 +2075,9 @@
     ]
   },
   {
-    "rollNo": "150096725098",
+    "rollNo": "84",
     "name": "Ayush yadgiri",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -4587,38 +2100,9 @@
     ]
   },
   {
-    "rollNo": "150096725100",
+    "rollNo": "85",
     "name": "ANURAG DATTATRAY Kharke",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -4641,38 +2125,9 @@
     ]
   },
   {
-    "rollNo": "150096725101",
+    "rollNo": "86",
     "name": "Shankar mupanna",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -4695,38 +2150,9 @@
     ]
   },
   {
-    "rollNo": "150096725102",
+    "rollNo": "87",
     "name": "Pragati Naidu",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -4749,38 +2175,9 @@
     ]
   },
   {
-    "rollNo": "150096725103",
+    "rollNo": "88",
     "name": "Ismail Firoz Govande",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -4803,38 +2200,9 @@
     ]
   },
   {
-    "rollNo": "150096725104",
+    "rollNo": "89",
     "name": "Kanishk Jitendra Singh",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -4857,38 +2225,9 @@
     ]
   },
   {
-    "rollNo": "150096725105",
+    "rollNo": "90",
     "name": "Harsh Kumar",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -4911,38 +2250,9 @@
     ]
   },
   {
-    "rollNo": "150096725106",
+    "rollNo": "91",
     "name": "Satvik Ashok Poojari",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -4965,38 +2275,9 @@
     ]
   },
   {
-    "rollNo": "150096725107",
+    "rollNo": "92",
     "name": "Akshay Sharma",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -5019,38 +2300,9 @@
     ]
   },
   {
-    "rollNo": "150096725108",
+    "rollNo": "93",
     "name": "Tanmay Ingle",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 7",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -5073,38 +2325,9 @@
     ]
   },
   {
-    "rollNo": "150096725109",
+    "rollNo": "94",
     "name": "Ashish kumar Maurya",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -5127,38 +2350,9 @@
     ]
   },
   {
-    "rollNo": "150096725110",
+    "rollNo": "95",
     "name": "SUBRATA BHAKTIPAD PANDA",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -5181,38 +2375,9 @@
     ]
   },
   {
-    "rollNo": "150096725111",
+    "rollNo": "96",
     "name": "Kaushal Dinesh Rajmandai",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -5235,38 +2400,9 @@
     ]
   },
   {
-    "rollNo": "150096725112",
+    "rollNo": "97",
     "name": "Mohammed Saad Mulla",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -5289,38 +2425,9 @@
     ]
   },
   {
-    "rollNo": "150096725113",
+    "rollNo": "98",
     "name": "SANJANA BASHYA Gundra",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -5343,38 +2450,9 @@
     ]
   },
   {
-    "rollNo": "150096725114",
+    "rollNo": "99",
     "name": "Piyush Nivrutti Owalekar",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -5397,38 +2475,9 @@
     ]
   },
   {
-    "rollNo": "150096725115",
+    "rollNo": "100",
     "name": "Aniruddha Chandan",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -5451,38 +2500,9 @@
     ]
   },
   {
-    "rollNo": "150096725116",
+    "rollNo": "101",
     "name": "Ganesh Sudhir Padhi",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -5505,38 +2525,9 @@
     ]
   },
   {
-    "rollNo": "150096725118",
+    "rollNo": "102",
     "name": "Sasanka SekharKundu",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -5559,38 +2550,9 @@
     ]
   },
   {
-    "rollNo": "150096725119",
+    "rollNo": "103",
     "name": "Aman Ashok Koli",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -5613,38 +2575,9 @@
     ]
   },
   {
-    "rollNo": "150096725120",
+    "rollNo": "104",
     "name": "Biswajeet Rout",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -5667,38 +2600,9 @@
     ]
   },
   {
-    "rollNo": "150096725121",
+    "rollNo": "105",
     "name": "Aditya Yadav",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -5721,38 +2625,9 @@
     ]
   },
   {
-    "rollNo": "150096725122",
+    "rollNo": "106",
     "name": "Aditya Arvind Kadam",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -5775,73 +2650,9 @@
     ]
   },
   {
-    "rollNo": "150096725123",
-    "name": "Guthal Basumatary",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      }
-    ],
-    "practical": []
-  },
-  {
-    "rollNo": "150096725124",
+    "rollNo": "107",
     "name": "Akshara Tanted",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -5864,38 +2675,9 @@
     ]
   },
   {
-    "rollNo": "150096725125",
+    "rollNo": "108",
     "name": "Parth Abhilash pathari",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -5918,38 +2700,9 @@
     ]
   },
   {
-    "rollNo": "150096725126",
+    "rollNo": "109",
     "name": "Antara Yogesh Palwankar",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -5972,38 +2725,9 @@
     ]
   },
   {
-    "rollNo": "150096725128",
+    "rollNo": "110",
     "name": "Nishi Chopda",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -6026,38 +2750,9 @@
     ]
   },
   {
-    "rollNo": "150096725129",
+    "rollNo": "111",
     "name": "Ashutosh mishra",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -6080,38 +2775,9 @@
     ]
   },
   {
-    "rollNo": "150096725130",
+    "rollNo": "112",
     "name": "Ashutosh Pawar",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -6134,38 +2800,9 @@
     ]
   },
   {
-    "rollNo": "150096725131",
+    "rollNo": "113",
     "name": "Atharv Ghadge",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -6188,38 +2825,9 @@
     ]
   },
   {
-    "rollNo": "150096725132",
+    "rollNo": "114",
     "name": "Shubh saraswat",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -6242,38 +2850,9 @@
     ]
   },
   {
-    "rollNo": "150096725136",
+    "rollNo": "115",
     "name": "Saiyash Poojari",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -6296,38 +2875,9 @@
     ]
   },
   {
-    "rollNo": "150096725137",
+    "rollNo": "116",
     "name": "Sarvesh yadav",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -6350,38 +2900,9 @@
     ]
   },
   {
-    "rollNo": "150096725138",
+    "rollNo": "117",
     "name": "Asad Jamil Antule",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 28",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -6404,38 +2925,9 @@
     ]
   },
   {
-    "rollNo": "150096725139",
+    "rollNo": "118",
     "name": "Tanmay vijay Sherkar",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -6458,38 +2950,9 @@
     ]
   },
   {
-    "rollNo": "150096725142",
+    "rollNo": "119",
     "name": "Mahek yadav",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -6512,38 +2975,9 @@
     ]
   },
   {
-    "rollNo": "150096725143",
+    "rollNo": "120",
     "name": "Ananya Roy",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -6566,38 +3000,9 @@
     ]
   },
   {
-    "rollNo": "150096725144",
+    "rollNo": "121",
     "name": "omkar Sanjay Narvekar",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -6620,38 +3025,9 @@
     ]
   },
   {
-    "rollNo": "150096725145",
+    "rollNo": "122",
     "name": "Lakshya Ashok Purohit",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -6674,38 +3050,9 @@
     ]
   },
   {
-    "rollNo": "150096725146",
+    "rollNo": "123",
     "name": "Irene Koner",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -6728,38 +3075,9 @@
     ]
   },
   {
-    "rollNo": "150096725147",
+    "rollNo": "124",
     "name": "Danish Shaikh",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -6782,38 +3100,9 @@
     ]
   },
   {
-    "rollNo": "150096725148",
+    "rollNo": "125",
     "name": "Samarth Sunil Navale",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -6836,38 +3125,9 @@
     ]
   },
   {
-    "rollNo": "150096725149",
+    "rollNo": "126",
     "name": "Jui Sudhir Tawde",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -6890,38 +3150,9 @@
     ]
   },
   {
-    "rollNo": "150096725150",
+    "rollNo": "127",
     "name": "Rakesh Sarat Sahu",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -6944,73 +3175,9 @@
     ]
   },
   {
-    "rollNo": "150096725151",
-    "name": "Arfi zoheb karte",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      }
-    ],
-    "practical": []
-  },
-  {
-    "rollNo": "150096725152",
+    "rollNo": "128",
     "name": "Jaikishan suthar",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -7033,38 +3200,9 @@
     ]
   },
   {
-    "rollNo": "150096725154",
+    "rollNo": "129",
     "name": "Devpratap Premshankar Singh",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -7087,38 +3225,9 @@
     ]
   },
   {
-    "rollNo": "150096725155",
+    "rollNo": "130",
     "name": "Hazel Lakshmana",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -7141,38 +3250,9 @@
     ]
   },
   {
-    "rollNo": "150096725156",
+    "rollNo": "131",
     "name": "Prashant yadav",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -7195,38 +3275,9 @@
     ]
   },
   {
-    "rollNo": "150096725157",
+    "rollNo": "132",
     "name": "Saad khan",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -7249,38 +3300,9 @@
     ]
   },
   {
-    "rollNo": "150096725159",
+    "rollNo": "133",
     "name": "Janmesh Ravindra Rohida",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -7303,38 +3325,9 @@
     ]
   },
   {
-    "rollNo": "150096725160",
+    "rollNo": "134",
     "name": "Aryan Baliram Patil",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -7357,38 +3350,9 @@
     ]
   },
   {
-    "rollNo": "150096725161",
+    "rollNo": "135",
     "name": "Kaif Valera",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -7411,38 +3375,9 @@
     ]
   },
   {
-    "rollNo": "150096725162",
+    "rollNo": "136",
     "name": "Harish malviya",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -7465,38 +3400,9 @@
     ]
   },
   {
-    "rollNo": "150096725164",
+    "rollNo": "137",
     "name": "AHTISHAM KHAN",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -7519,38 +3425,9 @@
     ]
   },
   {
-    "rollNo": "150096725165",
+    "rollNo": "138",
     "name": "Rashmeet Kaur Nanade",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -7573,38 +3450,9 @@
     ]
   },
   {
-    "rollNo": "150096725166",
+    "rollNo": "139",
     "name": "Manan Jain",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -7627,38 +3475,9 @@
     ]
   },
   {
-    "rollNo": "150096725167",
+    "rollNo": "140",
     "name": "Jiya Ram Jana",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 30",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -7681,38 +3500,9 @@
     ]
   },
   {
-    "rollNo": "150096725168",
+    "rollNo": "141",
     "name": "Prince Singh",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -7735,38 +3525,9 @@
     ]
   },
   {
-    "rollNo": "150096725169",
+    "rollNo": "142",
     "name": "piyush patil",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -7789,38 +3550,9 @@
     ]
   },
   {
-    "rollNo": "150096725170",
+    "rollNo": "143",
     "name": "Anant Anupam Dhoundiyal",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -7843,38 +3575,9 @@
     ]
   },
   {
-    "rollNo": "150096725171",
+    "rollNo": "144",
     "name": "Sneha Nandkishor Patil",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -7897,38 +3600,9 @@
     ]
   },
   {
-    "rollNo": "150096725172",
+    "rollNo": "145",
     "name": "Azmaan Baig",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -7951,38 +3625,9 @@
     ]
   },
   {
-    "rollNo": "150096725173",
+    "rollNo": "146",
     "name": "Yash rajendra tambade",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 1 : 13th Mar : Fri",
@@ -8005,38 +3650,9 @@
     ]
   },
   {
-    "rollNo": "150096725174",
+    "rollNo": "147",
     "name": "Saksham Gharat",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -8059,38 +3675,9 @@
     ]
   },
   {
-    "rollNo": "150096725175",
+    "rollNo": "148",
     "name": "Trisha salvi",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -8113,38 +3700,9 @@
     ]
   },
   {
-    "rollNo": "150096725176",
+    "rollNo": "149",
     "name": "Kushal Nakrani",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -8167,38 +3725,9 @@
     ]
   },
   {
-    "rollNo": "150096725177",
+    "rollNo": "150",
     "name": "Swaraj Babu jadhav",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -8221,38 +3750,9 @@
     ]
   },
   {
-    "rollNo": "150096725178",
+    "rollNo": "151",
     "name": "Vishal Pandey",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -8275,38 +3775,9 @@
     ]
   },
   {
-    "rollNo": "150096725179",
+    "rollNo": "152",
     "name": "Atharva Dalvi",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -8329,38 +3800,9 @@
     ]
   },
   {
-    "rollNo": "150096725180",
+    "rollNo": "153",
     "name": "Ninad Deodhare",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -8383,38 +3825,9 @@
     ]
   },
   {
-    "rollNo": "150096725181",
+    "rollNo": "154",
     "name": "Kunwar Bhosle",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -8437,38 +3850,9 @@
     ]
   },
   {
-    "rollNo": "150096725182",
+    "rollNo": "155",
     "name": "Kartik Wagh",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -8491,38 +3875,9 @@
     ]
   },
   {
-    "rollNo": "150096725183",
+    "rollNo": "156",
     "name": "Prathamesh More",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -8545,38 +3900,9 @@
     ]
   },
   {
-    "rollNo": "150096725184",
+    "rollNo": "157",
     "name": "Pratik Kumar Swain",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -8599,38 +3925,9 @@
     ]
   },
   {
-    "rollNo": "150096725185",
+    "rollNo": "158",
     "name": "TEJAS CHAVAN",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -8653,38 +3950,9 @@
     ]
   },
   {
-    "rollNo": "150096725186",
+    "rollNo": "159",
     "name": "Shubham Mane",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -8707,38 +3975,9 @@
     ]
   },
   {
-    "rollNo": "150096725187",
+    "rollNo": "160",
     "name": "Aditya Kumbhar",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -8761,38 +4000,9 @@
     ]
   },
   {
-    "rollNo": "150096725188",
+    "rollNo": "161",
     "name": "Paarshvi Vijoy",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -8815,38 +4025,9 @@
     ]
   },
   {
-    "rollNo": "150096725189",
+    "rollNo": "162",
     "name": "NANDINI SOLANKI",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -8869,38 +4050,9 @@
     ]
   },
   {
-    "rollNo": "150096725190",
+    "rollNo": "163",
     "name": "Bhuvisha Gohil",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -8923,38 +4075,9 @@
     ]
   },
   {
-    "rollNo": "150096725191",
+    "rollNo": "164",
     "name": "Soham Sandeep Patil",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 31",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -8977,38 +4100,9 @@
     ]
   },
   {
-    "rollNo": "150096725192",
+    "rollNo": "165",
     "name": "Anushka Bukkawar",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -9031,38 +4125,9 @@
     ]
   },
   {
-    "rollNo": "150096725193",
+    "rollNo": "166",
     "name": "Sameer Mishra",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -9085,38 +4150,9 @@
     ]
   },
   {
-    "rollNo": "150096725194",
+    "rollNo": "167",
     "name": "Om Sawant",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -9139,38 +4175,9 @@
     ]
   },
   {
-    "rollNo": "150096725195",
+    "rollNo": "168",
     "name": "Himanshu katiyara",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -9193,38 +4200,9 @@
     ]
   },
   {
-    "rollNo": "150096725196",
+    "rollNo": "169",
     "name": "Mansi Shetty",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -9247,38 +4225,9 @@
     ]
   },
   {
-    "rollNo": "150096725197",
+    "rollNo": "170",
     "name": "Aaryan Keni",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -9301,38 +4250,9 @@
     ]
   },
   {
-    "rollNo": "150096725198",
+    "rollNo": "171",
     "name": "Bhavika Khabya",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -9355,38 +4275,9 @@
     ]
   },
   {
-    "rollNo": "150096725199",
+    "rollNo": "172",
     "name": "Priyanka Ghatkar",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -9409,38 +4300,9 @@
     ]
   },
   {
-    "rollNo": "150096725200",
+    "rollNo": "173",
     "name": "Sneha chaturvedi",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -9463,38 +4325,9 @@
     ]
   },
   {
-    "rollNo": "150096725201",
+    "rollNo": "174",
     "name": "Kaustubh bhoir",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -9517,38 +4350,9 @@
     ]
   },
   {
-    "rollNo": "150096725202",
+    "rollNo": "175",
     "name": "Rutuja Lokhande",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -9571,38 +4375,9 @@
     ]
   },
   {
-    "rollNo": "150096725203",
+    "rollNo": "176",
     "name": "Tanvish Poojari",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -9625,73 +4400,9 @@
     ]
   },
   {
-    "rollNo": "150096725205",
-    "name": "Paras Amar Sarang",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      }
-    ],
-    "practical": []
-  },
-  {
-    "rollNo": "150096725206",
+    "rollNo": "177",
     "name": "Varun Vijay Galgali",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -9714,38 +4425,9 @@
     ]
   },
   {
-    "rollNo": "150096725207",
+    "rollNo": "178",
     "name": "Raad Dalwai",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -9768,38 +4450,9 @@
     ]
   },
   {
-    "rollNo": "150096725208",
+    "rollNo": "179",
     "name": "Om Maurya",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -9822,38 +4475,9 @@
     ]
   },
   {
-    "rollNo": "150096725209",
+    "rollNo": "180",
     "name": "Daksh Ghandaat",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -9876,38 +4500,9 @@
     ]
   },
   {
-    "rollNo": "150096725211",
+    "rollNo": "181",
     "name": "Sanika Kangane",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -9930,38 +4525,34 @@
     ]
   },
   {
-    "rollNo": "150096725213",
+    "rollNo": "182",
+    "name": "Shivam Shreeram Yadav",
+    "theory": [],
+    "practical": [
+      {
+        "date": "Day 2: 14th Mar : Sat",
+        "subject": "HTML 5 , CSS 3 , Javascript",
+        "panel": "Panel 2",
+        "time": "12:30 PM - 12:45 PM",
+        "location": "Bunker-2",
+        "type": "Practical",
+        "professor": ""
+      },
+      {
+        "date": "Day 4: 17th Mar : Tue",
+        "subject": "C++",
+        "panel": "Panel 2",
+        "time": "12:30 PM - 12:45 PM",
+        "location": "Bunker -1",
+        "type": "Practical",
+        "professor": ""
+      }
+    ]
+  },
+  {
+    "rollNo": "183",
     "name": "Ishita Nakhawa",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -9984,38 +4575,9 @@
     ]
   },
   {
-    "rollNo": "150096725214",
+    "rollNo": "184",
     "name": "Sarthak Mhatre",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -10038,38 +4600,9 @@
     ]
   },
   {
-    "rollNo": "150096725215",
+    "rollNo": "185",
     "name": "Rima Amal Maji",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -10092,73 +4625,9 @@
     ]
   },
   {
-    "rollNo": "150096725216",
-    "name": "Vighnesh Bodke",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      }
-    ],
-    "practical": []
-  },
-  {
-    "rollNo": "150096725217",
+    "rollNo": "186",
     "name": "Rudra yadav",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -10181,38 +4650,9 @@
     ]
   },
   {
-    "rollNo": "150096725218",
+    "rollNo": "187",
     "name": "Swanandi  Mane",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -10235,38 +4675,9 @@
     ]
   },
   {
-    "rollNo": "150096725219",
+    "rollNo": "188",
     "name": "Pallavi Sarovar",
-    "theory": [
-      {
-        "date": "18th March 2026",
-        "subject": "CSS 3",
-        "time": "1:30 PM –02:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "18th March 2026",
-        "subject": "C++",
-        "time": "2:30 PM - 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "HTML 5",
-        "time": "2:30 PM – 3:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      },
-      {
-        "date": "20th March 2026",
-        "subject": "Javascript",
-        "time": "03:30 PM - 04:00 PM",
-        "location": "Classroom 32",
-        "type": "Theory"
-      }
-    ],
+    "theory": [],
     "practical": [
       {
         "date": "Day 2: 14th Mar : Sat",
@@ -10282,6 +4693,31 @@
         "subject": "C++",
         "panel": "Panel 2",
         "time": "2:45 PM - 3:00 PM",
+        "location": "Bunker -1",
+        "type": "Practical",
+        "professor": ""
+      }
+    ]
+  },
+  {
+    "rollNo": "189",
+    "name": "Heena kunwar Hadmat Singh",
+    "theory": [],
+    "practical": [
+      {
+        "date": "Day 2: 14th Mar : Sat",
+        "subject": "HTML 5 , CSS 3 , Javascript",
+        "panel": "Panel 2",
+        "time": "3:15 PM - 3:30 PM",
+        "location": "Bunker-2",
+        "type": "Practical",
+        "professor": ""
+      },
+      {
+        "date": "Day 4: 17th Mar : Tue",
+        "subject": "C++",
+        "panel": "Panel 2",
+        "time": "3:00 PM - 3:15 PM",
         "location": "Bunker -1",
         "type": "Practical",
         "professor": ""
